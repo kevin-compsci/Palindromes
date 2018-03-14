@@ -36,6 +36,7 @@ int main(int argc, char** argv) {
 }
 
 //Functions implementations goes below
+//A function that will print out characters in the array and display the output results
 void printArrayAndResults(char str[], int length, int boolVal) {
 	//local declaratoins
 	int i = 0;
