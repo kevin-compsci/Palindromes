@@ -29,7 +29,6 @@ int main() {
 		}
 		i++;
 	}
-
 	//print out elements in array and call results
 	printArrayAndResults(str, length+1, isPalindrome);	
   	return 0;
