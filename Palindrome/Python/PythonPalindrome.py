@@ -1,4 +1,3 @@
-#
 #Kevin Nguyen
 #Python program that determines whether a given character sequence is a palindrome or not.
 #
